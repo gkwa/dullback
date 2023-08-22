@@ -1,0 +1,2 @@
+- https://gogoapps.io/blog/passing-loggers-in-go-golang-logging-best-practices/
+-
